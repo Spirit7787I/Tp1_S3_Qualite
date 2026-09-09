@@ -1,6 +1,6 @@
 package fr.iut.tp;
 
-public class Add {
+public class add {
 
     public int add (int a, int b) {
 
