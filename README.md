@@ -1,4 +1,4 @@
-# Tp1_S3_Qualite
+# Tp1_S3_Qualite @Timeo je t'aime 
 
 ## Nom de l'équipe
 
