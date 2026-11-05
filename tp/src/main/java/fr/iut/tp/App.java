@@ -1,5 +1,10 @@
 package fr.iut.tp;
 
+/**
+ * cette classe permet de faire la soustraction entre deux entiers
+ */
+
+
 
 public class App {
     public static void main(String[] args) {
